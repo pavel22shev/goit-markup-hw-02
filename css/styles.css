@@ -85,6 +85,7 @@ body {
 }
 
 .hero-btn {
+  font-family: 'Roboto', sans-serif;
   background-color: var(--accent-color);
   font-weight: 700;
   font-size: 16px;
@@ -182,6 +183,7 @@ body {
 /* портфолио */
 
 .filter-btn {
+  font-family: 'Roboto', sans-serif;
   background-color: #f5f4fa;
   font-size: 16px;
   line-height: 1.62;
